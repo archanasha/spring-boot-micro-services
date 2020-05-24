@@ -1,6 +1,4 @@
-# Spring Boot and Micro-services
-
-Micro Serices with Spring Boot and Spring Cloud
+# Micro Services with Spring Boot and Spring Cloud
 
 Application	Port :
 
