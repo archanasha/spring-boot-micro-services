@@ -1,4 +1,4 @@
-# spring-boot-micro-services
+# Spring Boot and Micro-services
 
 Micro Serices with Spring Boot and Spring Cloud
 
